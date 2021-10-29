@@ -1,4 +1,4 @@
-name: Researcher
+name: Daibo Liu
 description: Personal website
 menu:
  - page: About
@@ -36,8 +36,8 @@ menu:
 #    url: /teaching
 #  - page: Media
 #    url: /media
-#  - page: Accolades
-#    url: /accolades
+ - page: Students
+   url: /students
 menu_external:
 #  - title: OleVik.me
 #    url: "http://olevik.me/"
