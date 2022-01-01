@@ -9,7 +9,7 @@ layout: default
 
 ## Selected Papers
 *2022*  
-<font color="#FF0000">[Ubicomp'22]</font> Weigao Su, Daibo Liu*, Taiyuan Zhang, Hongbo Jiang, Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer, Accepted to ACM IMWUT/Ubicomp 2022.
+<font color="#FF0000">[Ubicomp'22]</font>Weigao Su, Daibo Liu*, Taiyuan Zhang, Hongbo Jiang, Towards Device Independent Eavesdropping on Telephone Conversations with Built-in Accelerometer, Accepted to ACM IMWUT/Ubicomp 2022.
 
 <font color="#0000FF">[ACM TOSN]</font> Siwang Zhou, Yi Lian, Daibo Liu*, Hongbo Jiang, Yonghe Liu, Keqin Li, Compressive Sensing Based Distributed Data Storage for Mobile Crowdsensing, accepted to ACM Transactions on Sensor Networks, to appear soon
 
