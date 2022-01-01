@@ -3,8 +3,8 @@ description: Personal website
 menu:
  - page: About
    url: /about
-#  - page: Papers
-#    url: /papers
+ - page: Publication
+   url: /papers
 #    links:
 #     - title: Working papers
 #       url: "#working-papers"
