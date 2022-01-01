@@ -3,13 +3,13 @@ description: Personal website
 menu:
  - page: About
    url: /about
- - page: Papers
-   url: /papers
-   links:
-    - title: Working papers
-      url: "#working-papers"
-    - title: Published papers
-      url: "#published-papers"
+#  - page: Papers
+#    url: /papers
+#    links:
+#     - title: Working papers
+#       url: "#working-papers"
+#     - title: Published papers
+#       url: "#published-papers"
  - page: Research Projects
    url: /research
    links:
@@ -21,17 +21,17 @@ menu:
       url: "#project-three"
     - title: "Project Four"
       url: "#project-four"
- - page: Curriculum Vitae
-   url: /cv
-   links:
-    - title: Experience
-      url: "#experience"
-    - title: Education
-      url: "#education"
-    - title: Positions
-      url: "#positions"
-    - title: Miscellaneous
-      url: "#miscellaneous"
+#  - page: Curriculum Vitae
+#    url: /cv
+#    links:
+#     - title: Experience
+#       url: "#experience"
+#     - title: Education
+#       url: "#education"
+#     - title: Positions
+#       url: "#positions"
+#     - title: Miscellaneous
+#       url: "#miscellaneous"
 #  - page: Teaching
 #    url: /teaching
 #  - page: Media
