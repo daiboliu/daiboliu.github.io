@@ -10,17 +10,19 @@ menu:
 #       url: "#working-papers"
 #     - title: Published papers
 #       url: "#published-papers"
- - page: Research Projects
+
+ - page: Research
    url: /research
-   links:
-    - title: "Project One"
-      url: "#project-one"
-    - title: "Project Two"
-      url: "#project-two"
-    - title: "Project Three"
-      url: "#project-three"
-    - title: "Project Four"
-      url: "#project-four"
+#    links:
+#     - title: "Project One"
+#       url: "#project-one"
+#     - title: "Project Two"
+#       url: "#project-two"
+#     - title: "Project Three"
+#       url: "#project-three"
+#     - title: "Project Four"
+#       url: "#project-four"
+
 #  - page: Curriculum Vitae
 #    url: /cv
 #    links:
