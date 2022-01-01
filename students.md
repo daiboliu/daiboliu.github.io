@@ -7,17 +7,14 @@ layout: default
 
 **I am fortunate to work with these young talents.**
 
-### Ph.D.:
-Jingyang Hu,
-Qibo Zhang
+### Ph.D.
+Jingyang Hu, Qibo Zhang, Hangcheng Cao, Xiangyu Shen, Ling Kuang
 ...
 
-### M.S.:
-Siyu Chen, 
-Taiyuan Zhang,
-Panyi Ji
+### M.S.
+Siyu Chen, Taiyuan Zhang, Panyi Ji, Jie Wu, Geju Chen, Long Shen, Yunpeng Feng, Zhangchi Xu, Shuzhen Xiang, Chao Qiang, Shenmin Zha
 ...
 
-### Undergrad:
+### Undergrad
 [Weigao Su](https://wegul.github.io/wegul/),
 Tianli Shi
